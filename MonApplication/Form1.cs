@@ -21,5 +21,10 @@ namespace MonApplication
         {
             MessageBox.Show("Bouton de base du chef de projet");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
